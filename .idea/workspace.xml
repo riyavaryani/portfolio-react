@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc273cc-8774-4375-93b2-7666d5d8753e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shared/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shared/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shared/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shared/navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +28,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/todo-react" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/insta-frontend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -65,7 +74,7 @@
       <updated>1594983609587</updated>
       <workItem from="1594983611266" duration="874000" />
       <workItem from="1595154198751" duration="3938000" />
-      <workItem from="1595224934665" duration="1352000" />
+      <workItem from="1595224934665" duration="11348000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+}
+.header ul {
+    padding: 0 5rem;
+    margin: 0 auto;
+
+}
+#logo{
+    float: left;
+    display: inline-block;
+}
+.list{
+    float: right;
+    display: inline-block;
+}
