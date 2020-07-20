@@ -1,3 +1,12 @@
 .back{
-
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 2px 3px rgba(0,0,0,.2);
+    position: fixed;
+    border-radius: 2px;
+    width: 552px;
+    background-color: #f5f3ed;
+    transition: box-shadow 83ms;
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 8%;
+    text-align: center;
 }

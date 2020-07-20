@@ -1,5 +1,11 @@
 .header{
     width: 100%;
+    position: fixed;
+    top: 0;
+    height: 10%;
+    background-color: black;
+    color: white;
+    font-size: 18px;
 }
 .header ul {
     padding: 0 5rem;
@@ -9,8 +15,22 @@
 #logo{
     float: left;
     display: inline-block;
+    font-weight:700;
+    padding-top: 18px;
+    padding-left: 11px;
 }
 .list{
     float: right;
     display: inline-block;
+    font-weight:700;
+    padding-top: 18px;
+    padding-left: 11px;
+    padding-right: 16px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: darkgray;
+    font-size: 24px;
 }
